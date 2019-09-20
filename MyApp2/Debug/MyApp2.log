@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  CGameObject.cpp
+  Cinput.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CPayload.cpp
+  CPayloadManager.cpp
+  CSprite.cpp
+  CText.cpp
+  CTexture.cpp
+  GameFramework.cpp
+  MyApp3.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  TodayGameFramework.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  코드를 생성하고 있습니다...
+D:\학교용\MyApp2\MyApp2\TodayGameFramework.cpp(151,14): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학교용\MyApp2\MyApp2\TodayGameFramework.cpp(151,14): warning C4244: D:\학교용\MyApp2\MyApp2\CPayloadManager.cpp(101) : warning C4715: 'CPayloadManager::GetPostion': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MyApp2.vcxproj -> D:\학교용\MyApp2\Debug\MyApp2.exe
